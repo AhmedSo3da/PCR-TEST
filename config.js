@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"","producer":"Select.Pdf Html To Pdf for .NET Community Edition v21.1.0","creationdate":"D:20220103222015+02'00'","moddate":"D:20220104001452+02'00'","trapped":"","fileName":"Ali-PCR.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
